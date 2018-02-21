@@ -1,0 +1,85 @@
+,F1,accuracy,apply_tag,group2,model_name,precision,recall,short_name,support,tag_id
+0,0.00286944,0.96935491,UserTags::579::Animals Affected::Bats,Animals Affected,system_tag,0.00147929,0.047619048,Bats,21,579
+5,0.041420118,0.971427312,UserTags::446::Animals Affected::Animal Asymptomatic,Animals Affected,lr_threshold_optimizer,0.023140496,0.197183099,Animal Asymptomatic,71,446
+13,0.015015015,0.971074562,UserTags::665::Animals Affected::Animal Cases Increasing,Animals Affected,system_tag,0.00798722,0.125,Animal Cases Increasing,40,665
+17,0.432957393,0.920190485,UserTags::593::Animals Affected::Animal Death,Animals Affected,lr_threshold_optimizer,0.339390963,0.597750865,Animal Death,1156,593
+25,0.13592233,0.996075665,UserTags::444::Animals Affected::Captive,Animals Affected,system_tag,0.5,0.078651685,Captive,89,444
+26,0.532387274,0.909916663,UserTags::442::Animals Affected::Domestic,Animals Affected,lr_threshold_optimizer,0.453058044,0.645394007,Domestic,1802,442
+47,0.300148588,0.979231889,UserTags::268::Animals Affected::Vector,Animals Affected,best_single_feature,0.24047619,0.399209486,Vector,253,268
+54,0.24751861,0.893028793,UserTags::661::Animals Affected::Animal Case Confirmed,Animals Affected,lr_threshold_optimizer,0.170731707,0.449830891,Animal Case Confirmed,887,661
+55,0.271493213,0.992900922,UserTags::577::Animals Affected::Ducks,Animals Affected,best_single_feature,0.3125,0.24,Ducks,125,577
+56,0.086500655,0.969266723,UserTags::660::Animals Affected::Animal Case Suspected,Animals Affected,lr_threshold_optimizer,0.056603774,0.183333333,Animal Case Suspected,180,660
+61,0.310204082,0.985096345,UserTags::445::Animals Affected::Companion,Animals Affected,lr_threshold_optimizer,0.333333333,0.290076336,Companion,262,445
+63,0.050632911,0.986771904,UserTags::663::Animals Affected::Animal Case Locally-Acquired,Animals Affected,system_tag,0.027118644,0.380952381,Animal Case Locally-Acquired,21,663
+71,0.208251473,0.964460514,UserTags::578::Animals Affected::Chickens,Animals Affected,lr_threshold_optimizer,0.131350682,0.502369668,Chickens,211,578
+72,0.185483871,0.928744654,UserTags::658::Animals Affected::Animal Illness,Animals Affected,lr_threshold_optimizer,0.126547455,0.347169811,Animal Illness,530,658
+76,0.404248862,0.913444155,UserTags::443::Animals Affected::Wildlife,Animals Affected,lr_threshold_optimizer,0.31048951,0.579130435,Wildlife,1150,443
+39,0.3878327,0.992900922,UserTags::556::Chemical Agent::Chemical-related Incident,Chemical Agent,best_single_feature,0.485714286,0.32278481,Chemical-related Incident,158,556
+1,0.11965812,0.995458354,UserTags::584::Countermeasures::Evacuation,Countermeasures,system_tag,0.075268817,0.291666667,Evacuation,24,584
+7,0.487711214,0.941179064,UserTags::331::Countermeasures::Culling/Destruction,Countermeasures,lr_threshold_optimizer,0.387904704,0.656670114,Culling/Destruction,967,331
+8,0.062176166,0.992019048,UserTags::336::Countermeasures::School Closure,Countermeasures,system_tag,0.053571429,0.074074074,School Closure,81,336
+16,0.411846765,0.758322677,UserTags::328::Countermeasures::Treatment,Countermeasures,lr_threshold_optimizer,0.314435524,0.59670398,Treatment,3216,328
+20,0.232394366,0.913488249,UserTags::326::Countermeasures::Contact Trace,Countermeasures,lr_threshold_optimizer,0.172273782,0.356971154,Contact Trace,832,326
+22,0.361574383,0.915604744,UserTags::332::Countermeasures::Quarantine/Isolation,Countermeasures,lr_threshold_optimizer,0.305869074,0.442088091,Quarantine/Isolation,1226,332
+23,0.270471464,0.948145862,UserTags::334::Countermeasures::Monitoring (passive),Countermeasures,best_single_feature,0.209817132,0.380453752,Monitoring (passive),573,334
+27,0.056360709,0.948322236,UserTags::341::Countermeasures::Commercial Facility Closure,Countermeasures,lr_threshold_optimizer,0.034653465,0.150862069,Commercial Facility Closure,232,341
+28,0.372844037,0.924643944,UserTags::329::Countermeasures::Decon/Disinfection,Countermeasures,lr_threshold_optimizer,0.314551084,0.457657658,Decon/Disinfection,1110,329
+31,0.194444444,0.997442568,UserTags::343::Countermeasures::Emergency/Disaster Declaration,Countermeasures,system_tag,0.25,0.159090909,Emergency/Disaster Declaration,44,343
+34,0.07239819,0.981921601,UserTags::340::Countermeasures::Int'l Assistance Request,Countermeasures,system_tag,0.043360434,0.219178082,Int'l Assistance Request,73,340
+37,0.143030303,0.968825786,UserTags::349::Countermeasures::Incineration/Burial,Countermeasures,lr_threshold_optimizer,0.092043682,0.320652174,Incineration/Burial,184,349
+38,0.163265306,0.99819216,UserTags::345::Countermeasures::Pharmaceutical Deployment,Countermeasures,lr_threshold_optimizer,0.137931034,0.2,Pharmaceutical Deployment,20,345
+40,0.5,0.728294898,UserTags::347::Countermeasures::Monitoring (active),Countermeasures,lr_threshold_optimizer,0.409598511,0.641607663,Monitoring (active),4802,347
+46,0.343347639,0.892058733,UserTags::344::Countermeasures::Vector Control,Countermeasures,lr_threshold_optimizer,0.231632284,0.663212435,Vector Control,965,344
+51,0.109375,0.974866617,UserTags::668::Countermeasures::Contaminated Product,Countermeasures,lr_threshold_optimizer,0.071721311,0.230263158,Contaminated Product,152,668
+57,0.535637728,0.694342784,UserTags::322::Countermeasures::Advisory,Countermeasures,lr_threshold_optimizer,0.438425266,0.688242383,Advisory,5809,322
+58,0.303501946,0.992107236,UserTags::595::Countermeasures::Marketplace Removal,Countermeasures,best_single_feature,0.288888889,0.319672131,Marketplace Removal,122,595
+65,0.466436721,0.91132766,UserTags::327::Countermeasures::Vaccination,Countermeasures,lr_threshold_optimizer,0.387395328,0.586,Vaccination,1500,327
+67,0.202531646,0.9972221,UserTags::339::Countermeasures::Stockpiling,Countermeasures,system_tag,0.205128205,0.2,Stockpiling,40,339
+68,0.092920354,0.981921601,UserTags::346::Countermeasures::Official Investigation,Countermeasures,lr_threshold_optimizer,0.068181818,0.145833333,Official Investigation,144,346
+74,0.069204152,0.988138807,UserTags::337::Countermeasures::Travel Restrictions,Countermeasures,system_tag,0.038610039,0.333333333,Travel Restrictions,30,337
+75,0.45559538,0.939723974,UserTags::325::Countermeasures::Movement Restriction,Countermeasures,lr_threshold_optimizer,0.384667115,0.55859375,Movement Restriction,1024,325
+78,0.158775705,0.922439261,UserTags::348::Countermeasures::Mobilize Resources,Countermeasures,lr_threshold_optimizer,0.119855596,0.235127479,Mobilize Resources,706,348
+79,0.186046512,0.995370166,UserTags::585::Countermeasures::Hazmat Response,Countermeasures,system_tag,0.130434783,0.324324324,Hazmat Response,37,585
+2,0.515397083,0.986815997,UserTags::7::Etiologic Agent::Anthrax,Etiologic Agent,system_tag,0.349450549,0.981481481,Anthrax,162,7
+73,0.520325203,0.997398474,UserTags::191::Etiologic Agent::Lyme disease,Etiologic Agent,system_tag,0.372093023,0.864864865,Lyme disease,37,191
+3,0.255096098,0.943604215,UserTags::240::Humans Affected::Elderly,Humans Affected,lr_threshold_optimizer,0.207779886,0.330316742,Elderly,663,240
+9,0.222919937,0.978173641,UserTags::590::Humans Affected::Human Case Imported,Humans Affected,best_single_feature,0.276264591,0.186842105,Human Case Imported,380,590
+15,0.14693172,0.956479563,UserTags::591::Humans Affected::Human Case Locally-Acquired,Humans Affected,lr_threshold_optimizer,0.103030303,0.256024096,Human Case Locally-Acquired,332,591
+18,0.308541635,0.80118171,UserTags::241::Humans Affected::Adult,Humans Affected,lr_threshold_optimizer,0.244174757,0.418992087,Adult,2401,241
+21,0.552598856,0.84135103,UserTags::245::Humans Affected::Human Death,Humans Affected,lr_threshold_optimizer,0.494767312,0.625739228,Human Death,3551,245
+24,0.500153171,0.784161559,UserTags::536::Humans Affected::Human Case Confirmed,Humans Affected,lr_threshold_optimizer,0.417135071,0.624426313,Human Case Confirmed,3922,536
+32,0.164133739,0.987874245,UserTags::534::Humans Affected::Underlying Condition(s),Humans Affected,best_single_feature,0.177631579,0.152542373,Underlying Condition(s),177,534
+41,0.330885529,0.863397857,UserTags::535::Humans Affected::Human Case Suspected,Humans Affected,lr_threshold_optimizer,0.26877193,0.430337079,Human Case Suspected,1780,535
+45,0.437065637,0.871422902,UserTags::242::Humans Affected::Child,Humans Affected,lr_threshold_optimizer,0.394287705,0.490255522,Child,2309,242
+53,0.063205418,0.981701133,UserTags::592::Humans Affected::Human Case Multistate,Humans Affected,lr_threshold_optimizer,0.044728435,0.107692308,Human Case Multistate,130,592
+64,0.210018105,0.884562811,UserTags::537::Humans Affected::Human Cases Increasing,Humans Affected,lr_threshold_optimizer,0.151965066,0.33984375,Human Cases Increasing,1024,537
+70,0.121212121,0.985934124,UserTags::243::Humans Affected::Human Asymptomatic,Humans Affected,lr_threshold_optimizer,0.081481481,0.23655914,Human Asymptomatic,93,243
+6,0.189873418,0.932272146,UserTags::298::Infrastructure::Healthcare and Public Health strain,Infrastructure,lr_threshold_optimizer,0.12465374,0.398230088,Healthcare and Public Health strain,452,298
+48,0.118518519,0.994752855,UserTags::296::Infrastructure::Food and Agriculture strain,Infrastructure,system_tag,0.186046512,0.086956522,Food and Agriculture strain,92,296
+69,0.251781473,0.972220997,UserTags::302::Infrastructure::Water and Wastewater strain,Infrastructure,best_single_feature,0.173202614,0.460869565,Water and Wastewater strain,230,302
+10,0.554281346,0.742933992,UserTags::372::NA::Tempo 3,NA,lr_threshold_optimizer,0.479243786,0.657179115,Tempo 3,5516,372
+59,0.47805789,0.950703294,UserTags::373::NA::Tempo 2,NA,best_single_feature,0.376747609,0.653895275,Tempo 2,783,373
+62,0.003490401,0.949645046,UserTags::586::Other::Other,Other,system_tag,0.001792115,0.066666667,Other,30,586
+50,0.398265269,0.926584065,UserTags::539::Prevention::Prevention,Prevention,lr_threshold_optimizer,0.363456464,0.440447642,Prevention,1251,539
+4,0.068965517,0.992856828,UserTags::358::Red Flags::Unusual Prevalence/Incidence,Red Flags,system_tag,0.057142857,0.086956522,Unusual Prevalence/Incidence,69,358
+33,0.020725389,0.966665197,UserTags::365::Red Flags::Novel Agent,Red Flags,system_tag,0.010652463,0.380952381,Novel Agent,21,365
+35,0.006289308,0.986066405,UserTags::364::Red Flags::New Geographic Area,Red Flags,system_tag,0.005813953,0.006849315,New Geographic Area,146,364
+77,0.280701754,0.99457648,UserTags::359::Red Flags::Unusual Clinical Presentation,Red Flags,best_single_feature,0.220183486,0.387096774,Unusual Clinical Presentation,62,359
+14,0.025542784,0.966356541,UserTags::594::Social Disruption::Official Concern,Social Disruption,best_single_feature,0.016835017,0.052910053,Official Concern,189,594
+30,0.002827712,0.782309626,UserTags::679::Social Disruption::Government Denial,Social Disruption,system_tag,0.001419878,0.333333333,Government Denial,21,679
+36,0.091194969,0.974513867,UserTags::287::Social Disruption::Public Anxiety,Social Disruption,lr_threshold_optimizer,0.063736264,0.160220994,Public Anxiety,181,287
+52,0.043269231,0.982450725,UserTags::286::Social Disruption::Social Disruption Moderate,Social Disruption,system_tag,0.024390244,0.191489362,Social Disruption Moderate,47,286
+12,0.432432432,0.985184532,UserTags::391::Symptom::Diarrhea,Symptom,lr_threshold_optimizer,0.377581121,0.505928854,Diarrhea,253,391
+19,0.089385475,0.992812734,UserTags::544::Symptom::Dizziness,Symptom,system_tag,0.051282051,0.347826087,Dizziness,23,544
+29,0.092485549,0.993077296,UserTags::390::Symptom::Cough,Symptom,system_tag,0.053691275,0.333333333,Cough,24,390
+43,0.325991189,0.993253671,UserTags::387::Symptom::Abdominal Pain,Symptom,system_tag,0.37,0.291338583,Abdominal Pain,127,387
+44,0.09009009,0.995546541,UserTags::547::Symptom::Irritation (skin/eyes/respiratory tract),Symptom,system_tag,0.056179775,0.227272727,Irritation (skin/eyes/respiratory tract),22,547
+49,0.325,0.997618943,UserTags::378::Symptom::Pneumonia,Symptom,lr_threshold_optimizer,0.270833333,0.40625,Pneumonia,32,378
+60,0.351409978,0.986815997,UserTags::400::Symptom::Vomiting,Symptom,system_tag,0.336099585,0.368181818,Vomiting,220,400
+66,0.218487395,0.99179858,UserTags::395::Symptom::Headache,Symptom,lr_threshold_optimizer,0.159509202,0.346666667,Headache,75,395
+80,0.27,0.980686979,UserTags::393::Symptom::Fever,Symptom,lr_threshold_optimizer,0.205063291,0.395121951,Fever,205,393
+81,0.26993865,0.994752855,UserTags::398::Symptom::Nausea,Symptom,system_tag,0.20754717,0.385964912,Nausea,57,398
+82,0.174757282,0.996252039,UserTags::379::Symptom::Rash,Symptom,lr_threshold_optimizer,0.14516129,0.219512195,Rash,41,379
+83,0.350877193,0.998368535,UserTags::381::Symptom::Encephalitis,Symptom,lr_threshold_optimizer,0.277777778,0.476190476,Encephalitis,21,381
+11,0.331753555,0.987565589,UserTags::394::Syndrome::Gastrointestinal Illness,Syndrome,lr_threshold_optimizer,0.247349823,0.503597122,Gastrointestinal Illness,139,394
+42,0.152173913,0.996560695,UserTags::399::Syndrome::Respiratory Disease,Syndrome,lr_threshold_optimizer,0.159090909,0.145833333,Respiratory Disease,48,399
